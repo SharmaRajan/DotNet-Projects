@@ -1,0 +1,17 @@
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.DataAccessLayer.csproj.AssemblyReference.cache
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.DataAccessLayer.AssemblyInfoInputs.cache
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.DataAccessLayer.AssemblyInfo.cs
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/bin/Debug/net7.0/MyApp.DataAccessLayer.deps.json
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/bin/Debug/net7.0/MyApp.DataAccessLayer.dll
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/bin/Debug/net7.0/MyApp.DataAccessLayer.pdb
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/bin/Debug/net7.0/MyApp.Models.dll
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/bin/Debug/net7.0/MyApp.Models.pdb
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.DataAccessLayer.dll
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/refint/MyApp.DataAccessLayer.dll
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.DataAccessLayer.pdb
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/ref/MyApp.DataAccessLayer.dll
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/bin/Debug/net7.0/MyApp.DataAccessLayer.runtimeconfig.json
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.DataAccessLayer.genruntimeconfig.cache
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.DataAccessLayer.csproj.CopyComplete

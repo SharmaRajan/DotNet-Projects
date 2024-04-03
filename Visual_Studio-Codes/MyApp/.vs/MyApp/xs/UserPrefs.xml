@@ -1,4 +1,37 @@
 ﻿<Properties StartupConfiguration="{49529E21-883F-4C80-AF5A-DF4CC35C946E}|https">
-  <MonoDevelop.Ide.ItemProperties.MyWebApp FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MyWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyWebApp/Controllers/CategoryController.cs">
+    <Files>
+      <File FileName="MyApp.DataAccessLayer/Infrastructure/IRepository/ICategoryRepo.cs" Line="8" Column="39" />
+      <File FileName="MyApp.DataAccessLayer/Infrastructure/Repository/CategoryRepo.cs" Line="10" Column="48" />
+      <File FileName="MyApp.DataAccessLayer/Infrastructure/Repository/GenericRepo.cs" Line="42" Column="10" />
+      <File FileName="MyApp.DataAccessLayer/Data/AppDBContext.cs" Line="11" Column="1" />
+      <File FileName="MyApp.DataAccessLayer/Infrastructure/Repository/UnitOfWork.cs" Line="9" Column="39" />
+      <File FileName="MyApp.DataAccessLayer/Infrastructure/IRepository/IUnitOfWork.cs" Line="7" Column="1" />
+      <File FileName="MyWebApp/Program.cs" Line="18" Column="55" />
+      <File FileName="MyWebApp/Controllers/CategoryController.cs" Line="24" Column="1" />
+      <File FileName="MyApp.DataAccessLayer/Infrastructure/IRepository/IGenericRepo.cs" Line="8" Column="27" />
+      <File FileName="MyWebApp/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyApp" expanded="True">
+            <Node name="MyApp.DataAccessLayer">
+              <Node name="Data" expanded="True" />
+            </Node>
+            <Node name="MyWebApp" selected="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

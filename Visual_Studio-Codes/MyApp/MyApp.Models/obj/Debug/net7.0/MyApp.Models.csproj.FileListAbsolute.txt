@@ -1,0 +1,12 @@
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.Models/bin/Debug/net7.0/MyApp.Models.deps.json
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.Models/bin/Debug/net7.0/MyApp.Models.dll
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.Models/bin/Debug/net7.0/MyApp.Models.pdb
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.Models/obj/Debug/net7.0/MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.Models/obj/Debug/net7.0/MyApp.Models.AssemblyInfoInputs.cache
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.Models/obj/Debug/net7.0/MyApp.Models.AssemblyInfo.cs
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.Models/obj/Debug/net7.0/MyApp.Models.csproj.CoreCompileInputs.cache
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.Models/obj/Debug/net7.0/MyApp.Models.dll
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.Models/obj/Debug/net7.0/refint/MyApp.Models.dll
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.Models/obj/Debug/net7.0/MyApp.Models.pdb
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.Models/obj/Debug/net7.0/ref/MyApp.Models.dll
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.Models/obj/Debug/net7.0/MyApp.Models.sourcelink.json

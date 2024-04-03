@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{49529E21-883F-4C80-AF5A-DF4CC35C946E}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyApp.DataAccessLayer/Data/AppDBContext.cs">
+    <Files>
+      <File FileName="MyApp.DataAccessLayer/Data/AppDBContext.cs" Line="19" Column="1" />
+      <File FileName="MyWebApp/Controllers/CategoryController.cs" Line="15" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyApp" expanded="True">
+            <Node name="MyApp.DataAccessLayer" selected="True" />
+            <Node name="MyApp.Models" expanded="True" />
+            <Node name="MyWebApp">
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
