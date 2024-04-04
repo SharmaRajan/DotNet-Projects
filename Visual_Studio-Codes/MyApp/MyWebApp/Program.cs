@@ -20,8 +20,8 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 // Register context file i.e., AppDBContext for DB Connection
 builder.Services.AddDbContext<AppDBContext>(opt =>
 {
-    opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
-    //opt.UseSqlite(b => b.MigrationsAssembly("MyWebApp"));
+    //opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
+    opt.UseSqlite(b => b.MigrationsAssembly("MyWebApp"));
 });
 
 var app = builder.Build();
@@ -43,7 +43,8 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    //pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
 

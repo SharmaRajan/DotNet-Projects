@@ -282,4 +282,5 @@
 /Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyWebApp/bin/Debug/net7.0/MyApp.Models.dll
 /Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyWebApp/bin/Debug/net7.0/MyApp.DataAccessLayer.pdb
 /Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyWebApp/bin/Debug/net7.0/MyApp.Models.pdb
-/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyWebApp/obj/Debug/net7.0/MyWebApp.csproj.CopyComplete
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyWebApp/obj/Debug/net7.0/MyWebApp.sourcelink.json
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyWebApp/obj/Debug/net7.0/MyWebApp.csproj.Up2Date

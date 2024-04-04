@@ -14,4 +14,5 @@
 /Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/ref/MyApp.DataAccessLayer.dll
 /Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/bin/Debug/net7.0/MyApp.DataAccessLayer.runtimeconfig.json
 /Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.DataAccessLayer.genruntimeconfig.cache
-/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.DataAccessLayer.csproj.CopyComplete
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.DataAccessLayer.sourcelink.json
+/Users/rajansharma/Documents/GitHub-Repos/DotNet-Projects/Visual_Studio-Codes/MyApp/MyApp.DataAccessLayer/obj/Debug/net7.0/MyApp.Da.DDCCD524.Up2Date

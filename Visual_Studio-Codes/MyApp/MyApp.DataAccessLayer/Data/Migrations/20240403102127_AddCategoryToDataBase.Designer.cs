@@ -8,7 +8,7 @@ using MyApp.DataAccessLayer.Data;
 
 #nullable disable
 
-namespace MyWebApp.Data.Migrations
+namespace MyApp.DataAccessLayer.Data.Migrations
 {
     [DbContext(typeof(AppDBContext))]
     [Migration("20240403102127_AddCategoryToDataBase")]

@@ -13,6 +13,7 @@ namespace MyApp.DataAccessLayer.Data
 
 		public DbSet<CategoryModel> Categories { get; set; }
 
+		public DbSet<Product> Products { get; set; }
 	}
 }
 

@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace MyWebApp.Data.Migrations
+namespace MyApp.DataAccessLayer.Data.Migrations
 {
     /// <inheritdoc />
     public partial class AddCategoryToDataBase : Migration
