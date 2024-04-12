@@ -1,4 +1,5 @@
 ﻿using System;
+using ConsoleToWebApp.Repository;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Hosting;
 
@@ -11,7 +12,11 @@ namespace ConsoleToWebApp
 		{
 			services.AddControllers();
 			services.AddTransient<CustomMiddleware>();
-		}
+
+            // register an Singleton service in ASP.NET Core web app
+            //services.AddSingleton<IProductRepo, ProductRepository>();
+            services.AddScoped<IProductRepo, ProductRepository>();
+        }
 
 		// Used to configure HTTP request Pipelines, All the middlewares are configured here
 		public void Configure(IApplicationBuilder app,IWebHostEnvironment env)
