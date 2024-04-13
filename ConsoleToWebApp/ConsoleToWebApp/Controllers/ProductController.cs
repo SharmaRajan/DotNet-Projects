@@ -27,6 +27,14 @@ namespace ConsoleToWebApp.Controllers
             var products = _productRepo.GetAllProducts();
             return Ok(products);
         }
-	}
+
+        [HttpGet("")]
+        public IActionResult GetName()
+        {
+            
+            var name = _productRepo.GetName();
+            return Ok(name);
+        }
+    }
 }
 

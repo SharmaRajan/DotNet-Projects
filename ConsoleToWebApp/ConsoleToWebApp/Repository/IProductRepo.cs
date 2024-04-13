@@ -9,6 +9,7 @@ namespace ConsoleToWebApp.Repository
 
          List<ProductModel> GetAllProducts();
 
+        string GetName();
     }
 }
 

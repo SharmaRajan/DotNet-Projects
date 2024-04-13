@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using ConsoleToWebApp.Models;
+using ConsoleToWebApp.Repository;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -75,6 +76,14 @@ namespace ConsoleToWebApp.Controllers
             //    new EmployeeModel() {Id = 2, Name = "Abhishek"}
             //});
             return new EmployeeModel() { Id = id, Name = "Rajan" };
+        }
+
+        [HttpGet("name")]
+        public IActionResult GetName([FromServices] IProductRepo _productRepo)
+        {
+
+            var name = _productRepo.GetName();
+            return Ok(name);
         }
     }
 }

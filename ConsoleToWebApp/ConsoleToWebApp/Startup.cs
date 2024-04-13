@@ -1,6 +1,7 @@
 ﻿using System;
 using ConsoleToWebApp.Repository;
 using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
 
 namespace ConsoleToWebApp
@@ -15,7 +16,11 @@ namespace ConsoleToWebApp
 
             // register an Singleton service in ASP.NET Core web app
             //services.AddSingleton<IProductRepo, ProductRepository>();
-            services.AddScoped<IProductRepo, ProductRepository>();
+            //services.AddScoped<IProductRepo, ProductRepository>();
+            //services.AddTransient<IProductRepo, ProductRepository>();
+
+            services.TryAddTransient<IProductRepo, ProductRepository>();
+            services.TryAddTransient<IProductRepo, TestRepository>();
         }
 
 		// Used to configure HTTP request Pipelines, All the middlewares are configured here

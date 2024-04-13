@@ -18,6 +18,11 @@ namespace ConsoleToWebApp.Repository
 		{
 			return products;
 		}
+
+        public string GetName()
+        {
+			return "Name from ProductRepository";
+        }
     }
 }
 
