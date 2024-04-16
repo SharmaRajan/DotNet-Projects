@@ -1,27 +1,25 @@
 ﻿<Properties StartupConfiguration="{57D3BEAF-8E67-49FB-B0BD-A00E3FCFADA8}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ConsoleToWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleToWebApp/Controllers/EmployeeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleToWebApp/Controllers/AnimalsController.cs">
     <Files>
-      <File FileName="ConsoleToWebApp/Startup.cs" Line="21" Column="1" />
-      <File FileName="ConsoleToWebApp/Repository/IProductRepo.cs" Line="5" Column="2" />
-      <File FileName="ConsoleToWebApp/Repository/ProductRepository.cs" Line="24" Column="41" />
-      <File FileName="ConsoleToWebApp/Repository/TestRepository.cs" Line="10" Column="49" />
-      <File FileName="ConsoleToWebApp/Controllers/ProductController.cs" Line="33" Column="10" />
+      <File FileName="ConsoleToWebApp/Startup.cs" />
+      <File FileName="ConsoleToWebApp/Repository/IProductRepo.cs" />
+      <File FileName="ConsoleToWebApp/Repository/ProductRepository.cs" />
+      <File FileName="ConsoleToWebApp/Repository/TestRepository.cs" />
+      <File FileName="ConsoleToWebApp/Controllers/ProductController.cs" Line="25" Column="10" />
       <File FileName="ConsoleToWebApp/Controllers/EmployeeController.cs" Line="80" Column="1" />
+      <File FileName="ConsoleToWebApp/Controllers/ValueController.cs" Line="1" Column="1" />
+      <File FileName="ConsoleToWebApp/Controllers/TestController.cs" Line="1" Column="1" />
+      <File FileName="ConsoleToWebApp/Controllers/BooksController.cs" Line="1" Column="1" />
+      <File FileName="ConsoleToWebApp/Controllers/BinderController.cs" Line="27" Column="10" />
+      <File FileName="ConsoleToWebApp/Controllers/AnimalsController.cs" Line="25" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ConsoleToWebApp">
-            <Node name="ConsoleToWebApp">
-              <Node name="Controllers">
-                <Node name="EmployeeController.cs" selected="True" />
+          <Node name="ConsoleToWebApp" expanded="True">
+            <Node name="ConsoleToWebApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AnimalsController.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -29,4 +27,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleToWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
